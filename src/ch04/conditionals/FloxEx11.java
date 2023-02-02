@@ -1,8 +1,8 @@
-package ch04;
+package ch04.conditionals;
 
 import java.util.Scanner;
 
-public class FloxEx10 {
+public class FloxEx11 {
     public static void main(String[] args) {
         System.out.print("주민번호 입력: ");
 

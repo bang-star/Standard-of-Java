@@ -1,4 +1,4 @@
-package ch04;
+package ch04.conditionals;
 
 import java.util.Scanner;
 
