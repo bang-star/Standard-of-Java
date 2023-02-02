@@ -1,4 +1,4 @@
-package ch04;
+package ch04.conditionals;
 
 public class FloxEx1 {
     public static void main(String[] args) {
