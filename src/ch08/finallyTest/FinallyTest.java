@@ -1,6 +1,12 @@
 package ch08.finallyTest;
 
 public class FinallyTest {
+    /**
+     * finally가 필요한 이유를 설명할 수 있는 예제로
+     * try-catch 구조에서 필수적으로 처리되어야하는 코드를
+     * try-catch 구조에서 해결한 코드
+     * @param args
+     */
     public static void main(String[] args) {
         try {
             startInstall();
